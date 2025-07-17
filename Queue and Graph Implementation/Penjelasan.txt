@@ -1,0 +1,10 @@
+Penjelasan:
+1. erapp.zip
+Script Erapp bisa dijalankan mengalami beberapa perubahan, 
+yaitu AbstractCollection dan LinkedQueue tidak digunakan. 
+Hanya Node, LinkedPriorityQueue, Ermodel, dan Erapp. 
+Terjadi beberapa perubahan dari script Python, silahkan dipelajari dan digunakan.
+
+2. social_network.py
+Script ini menggunakan 2 konsep struktur data, yaitu Queue dan Graph. 
+Jalankan script ini dan pelajari kembali. 

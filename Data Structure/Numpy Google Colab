@@ -1,0 +1,19 @@
+# import numpy as np
+# arr_two = np.array( [[11,12,5,2], [15,6,10,5],[10,7,12,9]])
+# print(arr_two)
+
+# Hasil :
+#    [[11 12  5  2]
+#    [15  6 10  5]
+#    [10  7 12  9]]
+
+# print(arr_two[0,2]) #cetak data ke 0,2; yaitu 5
+# arr_two[0,2] = 10 #ganti data ke 0,2; yaitu 5 menjadi 10
+# arr_two *= 2
+# print(arr_two)
+
+# Hasil:
+#     20 -> 5 diubah 10 lalu * 2
+#     [[ 88  96  20  16]
+#     [120  48  80  40]
+#     [ 80  56  96  72]]
